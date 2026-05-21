@@ -1,0 +1,20 @@
+{
+  "style": "default",
+  "path": "components/modern-ui",
+  "theme": "default",
+  "typescript": true,
+  "tailwind": true,
+  "framework": "next",
+  "components": [
+    {
+      "name": "fluid-dropdown",
+      "version": "latest",
+      "installedAt": "2026-05-17T00:01:49.552Z"
+    }
+  ],
+  "aliases": {
+    "cn": "@/lib/utils",
+    "hook": "@/hooks"
+  },
+  "tailwindVersion": "v4"
+}
